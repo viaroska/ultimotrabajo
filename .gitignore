@@ -59,3 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 trabajo/Assets/Editor/Migration/com.ptc.vuforia.engine-10.11.3.tgz.meta
+trabajo/Assets/Editor/Migration/AddVuforiaEnginePackage.cs
